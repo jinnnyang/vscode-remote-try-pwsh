@@ -22,6 +22,6 @@
     },
     "[powershell]": {
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "ms-vscode.PowerShell"
+        "editor.defaultFormatter": "ms-vscode.powershell"
     }
 }
